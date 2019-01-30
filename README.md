@@ -29,11 +29,11 @@ Minimum Criteria:
 In this project, you must do all minimum criteria. In the end, your program must be work without any errors. 
 
 Bonus:
-• Save and load high score information to/from disk
+
 • Each bonus has got different random values.
-• You can create cheat codes for the game.
+
 • You can create alternative control for car.
-• Car can jump over the wall but may lose the score. When car exit the maze, game is over and you need to show high score. 
+
 
 	
 	
